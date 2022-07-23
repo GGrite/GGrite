@@ -1,4 +1,4 @@
-### Hi there 👋
+### Prepare
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijh30123)](https://solved.ac/kijh30123)
 
 <!--
