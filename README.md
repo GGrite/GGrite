@@ -2,8 +2,6 @@
 
 🎓 **Statistics & Software Convergence Graduate** | 🎯 **Aspiring Data Scientist & Machine Learning Engineer**
 
-Passionate about leveraging data and AI to build impactful solutions. With experience in natural language processing, computer vision, and deep learning frameworks, I'm eager to tackle challenging problems and create innovative projects.
-
 ---
 
 ## 🚀 Featured Projects
