@@ -1,39 +1,86 @@
-# 👋 Hi there, I'm [Gayoung Kim]!
+# 👋 Hello, I'm GaYoung Kim!
 
-I'm a passionate developer focused on building impactful projects. Here are some of my key projects:
+🎓 **Statistics & Software Convergence Graduate** | 🎯 **Aspiring Data Scientist & Machine Learning Engineer**
+
+Passionate about leveraging data and AI to build impactful solutions. With experience in natural language processing, computer vision, and deep learning frameworks, I'm eager to tackle challenging problems and create innovative projects.
 
 ---
 
 ## 🚀 Featured Projects
 
-### [📁 Project 1: Amazing Project](https://github.com/yourusername/amazing-project)
-A brief description of the project:
-- 🌟 **Highlights**: What makes this project special
-- 💻 **Tech Stack**: Key languages/tools used
+### [📁 NLP-Based Defamation Sentence Analysis](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11481224)
+- Developed a system to analyze defamatory sentences using NLP techniques.
+- Published in **The Journal of Korean Institute of Information Technology (KCI-listed)**.
+- **Keywords**: NLP, Deep Learning, Legal Text Analysis.
 
-### [📁 Project 2: Next-Level App](https://github.com/yourusername/next-level-app)
-Another brief description:
-- 🌟 **Features**: Exciting functionalities
-- 🚀 **Live Demo**: [View here](https://your-live-demo-link.com)
+### 📷 AI Photo Studio (GAN-Based Project)
+- Designed an AI-powered photo studio using **GAN models**.
+- Compared and experimented with multiple models to enhance performance.
+- Part of **Boostcamp AI Tech 5th Cohort** (Computer Vision Track).
+
+### 🌾 Genomic Information Breed Classification
+- Achieved **Top 8 (Top 1.5%)** in the **DACON Machine Learning Competition**.
+- Tackled a genomic classification problem with innovative feature engineering.
+
+---
+
+## 🏆 Achievements
+
+- **2023**: 8th Place, DACON Genomic Information Breed Classification AI Competition.
+- **2022**: Encouragement Award, 2nd Data Mentoring Program (Analysis of illegal waste dumping CCTV effectiveness).
+- **2021**: Finalist, ICPC Asia Seoul Regional.
+- **2021**: 5th Statistics Data Analysis Contest, Poster Division Encouragement Award.
 
 ---
 
 ## 💻 Skills & Tools
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+
+### Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📚 Education
+
+- 🎓 **Sookmyung Women’s University**  
+  - **Statistics** (2020.03 - 2024.08) | GPA: 3.53 / 4.5  
+  - **Software Convergence (Double Major)**  
+
+- 📖 **Boostcamp AI Tech 5th Cohort (Computer Vision Track)** (2023.03 - 2023.08)  
+  - Learned object detection, OCR, and segmentation.
+  - Developed GAN-based AI services as the final project.
+
+---
+
+## 💼 Experiences & Activities
+
+### **Google Developer Student Clubs (GDSC), Sookmyung** (2023.10 - 2024.05)
+
+### **BOAZ (Big Data Club)** (2021.12 - 2023.01)
+
+### **ICPC Sinchon Algorithm Union** (2021.09 - 2022.08)
 
 ---
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=Google-Chrome&logoColor=white)](https://sly-quark-313.notion.site/a851b28daf6d4fb3bfc534468ef9d21c?pvs=4)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kijh30123@naver.com) 
+
+---
+
