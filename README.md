@@ -18,7 +18,7 @@
 - Set up and optimized StyleGAN training environments, addressing technical challenges.  
 - Project duration: **2022.06 - 2022.12**.  
 
-### [🌾 Genomic Information Breed Classification]
+### [🌾 Genomic Information Breed Classification](https://dacon.io/competitions/official/236035/codeshare/7464?page=2&dtype=recent)
 - Achieved **Top 8 (Top 1.5%)** in the **DACON Machine Learning Competition**.
 - Tackled a genomic classification problem with innovative feature engineering.
 ---
