@@ -1,4 +1,4 @@
-# 👋 Hello, I'm GaYoung Kim!
+# 👋 Hello!
 
 🎓 **Statistics & Software Convergence Graduate** | 🎯 **Aspiring Data Scientist & Machine Learning Engineer**
 
@@ -13,15 +13,16 @@ Passionate about leveraging data and AI to build impactful solutions. With exper
 - Published in **The Journal of Korean Institute of Information Technology (KCI-listed)**.
 - **Keywords**: NLP, Deep Learning, Legal Text Analysis.
 
-### 📷 AI Photo Studio (GAN-Based Project)
-- Designed an AI-powered photo studio using **GAN models**.
-- Compared and experimented with multiple models to enhance performance.
-- Part of **Boostcamp AI Tech 5th Cohort** (Computer Vision Track).
+### [🐱 Anti-Aging GAN for CAT](https://github.com/noooey/AntiAginGAN-for-Cat.git)
+- **[View GitHub Repository](https://github.com/noooey/AntiAginGAN-for-Cat.git)**  
+- Developed a system to generate **juvenile cat images** using **StyleGAN** and **PCA**.  
+- Conducted experiments with **Latent Vectors** using PCA to control visual attributes.  
+- Set up and optimized StyleGAN training environments, addressing technical challenges.  
+- Project duration: **2022.06 - 2022.12**.  
 
-### 🌾 Genomic Information Breed Classification
+### [🌾 Genomic Information Breed Classification]
 - Achieved **Top 8 (Top 1.5%)** in the **DACON Machine Learning Competition**.
 - Tackled a genomic classification problem with innovative feature engineering.
-
 ---
 
 ## 🏆 Achievements
@@ -64,16 +65,6 @@ Passionate about leveraging data and AI to build impactful solutions. With exper
 - 📖 **Boostcamp AI Tech 5th Cohort (Computer Vision Track)** (2023.03 - 2023.08)  
   - Learned object detection, OCR, and segmentation.
   - Developed GAN-based AI services as the final project.
-
----
-
-## 💼 Experiences & Activities
-
-### **Google Developer Student Clubs (GDSC), Sookmyung** (2023.10 - 2024.05)
-
-### **BOAZ (Big Data Club)** (2021.12 - 2023.01)
-
-### **ICPC Sinchon Algorithm Union** (2021.09 - 2022.08)
 
 ---
 
