@@ -27,7 +27,7 @@
 
 - **2023**: 8th Place, DACON Genomic Information Breed Classification AI Competition.
 - **2022**: Encouragement Award, 2nd Data Mentoring Program (Analysis of illegal waste dumping CCTV effectiveness).
-- **2021**: Finalist, ICPC Asia Seoul Regional.
+- **2021**: ICPC Asia Seoul Regional.
 - **2021**: 5th Statistics Data Analysis Contest, Poster Division Encouragement Award.
 
 ---
